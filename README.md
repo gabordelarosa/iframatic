@@ -1,5 +1,4 @@
 # iframatic
-Inspects responsive iframe contents
 
 The plugin : 
 https://chrome.google.com/webstore/detail/iframatic/gpnjegapfnihengjbmdadhakcoiaipme
