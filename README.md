@@ -13,6 +13,8 @@ This extension works on local and online contents too.
 
 Implementation example:
 http://gabordelarosa.hu/_dev/iframatic/implementation-example/
+Resoponsive iframe content : http://gabordelarosa.hu/_dev/iframatic/implementation-example/res2/
+
 
 &lt;iframe id="banner" src="./res2/?v=1" frameborder="0" scrolling="no"  style="overflow:hidden; width:100%;">&lt;/iframe&gt;
 &lt;iframe id="banner2" src="./res3/?v=1" frameborder="0" scrolling="no"  style="overflow:hidden; width:100%;">&lt;/iframe&gt;
